@@ -12,6 +12,6 @@ The R script, `run_analysis.R`, does the following:
 5. Merges the two datasets
 6. Converts the `activity` and `subject` columns into factors
 7. Creates a tidy dataset that consists of the average (mean) value of each
-   variable for each subject and activity pair.
+   variable for each subject and activity pair...
 
 The end result is shown in the file `tidy_data.txt`.
